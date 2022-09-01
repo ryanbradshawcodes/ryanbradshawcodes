@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Ryan and I am a Computer Systems Engineer at the University of Warwick
+
 <!--
 **ryanbradshawcodes/ryanbradshawcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
